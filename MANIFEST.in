@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include escopil *.css
+recursive-include escopil *.csv
+recursive-include escopil *.html
+recursive-include escopil *.ico
+recursive-include escopil *.js
+recursive-include escopil *.json
+recursive-include escopil *.md
+recursive-include escopil *.png
+recursive-include escopil *.py
+recursive-include escopil *.svg
+recursive-include escopil *.txt
+recursive-exclude escopil *.pyc
