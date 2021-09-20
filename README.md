@@ -1,7 +1,0 @@
-## Esco
-
-esco
-
-#### License
-
-MIT
